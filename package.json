@@ -1,4 +1,9 @@
 {
   "author": "Pradyumna-Hegde",
-  "description": "A project that's meant to learn backend and database from freecodecamp"
+  "description": "A project that's meant to learn backend and database from freecodecamp",
+  "keywords": [
+    "freecodecamp",
+    "nodejs",
+    "mongodb"
+  ]
 }
